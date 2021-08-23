@@ -1,0 +1,86 @@
+body{
+    margin:0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+    
+}
+.half img{
+    position: absolute;
+    height:60%;
+    width: 40%;
+
+}
+.banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+      
+}
+section{
+    height:300%;
+    padding-bottom: 500px;
+      
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(75deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+p{
+    color:dimgray;
+}
+.three{
+    width: 40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+    
+}
+.three img{
+    height:100%;
+    width:100%;
+
+}
+.dream{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.four{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    
+}
+#design{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,red,tomato);
+    border-image-slice: 1;
+}
+#design1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+.Exprience{
+    background-image: url("images/exp-left.png");
+    background-repeat: no-repeat;
+    background-position-y: 15%;
+}
+footer p{
+    text-align: center;
+
+}
